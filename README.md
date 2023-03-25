@@ -18,3 +18,5 @@ This application is similar to <a href="https://chat.openai.com/chat">ChatGPT</a
 - Chat with it & ask him anything 😄
 
 Made with by ❤️ & ☕ by ***Debargha Mitra Roy***
+
+https://user-images.githubusercontent.com/86195789/227735139-2420cbea-3a80-4068-8871-77c02144255f.mp4
